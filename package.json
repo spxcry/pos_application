@@ -1,7 +1,7 @@
 {
-  "name": "pos-mern",
+  "name": "pos-workshop",
   "version": "1.0.0",
-  "description": "pos mern app",
+  "description": "pos-workshop",
   "main": "server.js",
   "scripts": {
     "start": "node server.js",
